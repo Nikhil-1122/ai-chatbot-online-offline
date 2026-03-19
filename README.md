@@ -39,6 +39,7 @@ A full-stack AI chatbot that works both **online and offline**, supports **PDF, 
 
 ### 1. Clone Repository
 git clone https://github.com/your-username/ai-chatbot.git
+
 cd ai-chatbot
 
 ### 2. Install Dependencies
