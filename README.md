@@ -49,15 +49,21 @@ pip install -r requirements.txt
 Download from: https://ollama.com
 
 Run the text model:
+
 ollama run llama3
+
 For image understanding (vision model):
+
 ollama run llava
 
 ### 4. Add Hugging Face API Key
 Open app.py and replace:
+
 HF_TOKEN = "your_huggingface_token_here"
 
 ### 5. Run the Application
 python app.py
+
 Open in browser:
+
 http://127.0.0.1:5000
